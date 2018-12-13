@@ -7,3 +7,7 @@
 
 ## Issues
 [问题解答版块](https://github.com/nesger/FlutterNote/issues)
+
+
+## 书籍
+[Flutter 实战](https://book.flutterchina.club/)
