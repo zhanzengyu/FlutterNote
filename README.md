@@ -2,7 +2,8 @@
 [Flutter官网](https://flutter.io/)
 
 ## 中文网
-[FLutter中文网](https://flutterchina.club/)
+[FLutter中文网](https://flutterchina.club/)  
+[Flutter中文开发者论坛](http://flutter-dev.cn/)
 
 
 ## Issues
