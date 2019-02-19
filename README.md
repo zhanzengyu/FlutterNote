@@ -3,7 +3,8 @@
 
 ## Flutter 即学即用系列博客
 [Flutter 即学即用系列博客——01 环境搭建](https://mp.weixin.qq.com/s/mEwJE5mXwpmuWgVNL9O42g)  
-[Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)
+[Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)  
+[Flutter 即学即用系列博客——03 在旧有项目引入 Flutter](https://mp.weixin.qq.com/s/OGbH3G3wHVTUt-0EJit8RA)
 
 ## dart
 
