@@ -1,6 +1,3 @@
-## 官网
-[Flutter官网](https://flutter.io/)
-
 ## Flutter 即学即用系列博客
 [Flutter 即学即用系列博客——01 环境搭建](https://mp.weixin.qq.com/s/mEwJE5mXwpmuWgVNL9O42g)  
 [Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)  
@@ -11,6 +8,9 @@
 ## dart
 
 [dart 在线运行器](https://dartpad.dartlang.org/null)
+
+## 官网
+[Flutter官网](https://flutter.io/)
 
 ## 中文网
 [FLutter中文网](https://flutterchina.club/)  
