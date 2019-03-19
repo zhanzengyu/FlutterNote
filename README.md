@@ -3,7 +3,9 @@
 [Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)  
 [Flutter 即学即用系列博客——03 在旧有项目引入 Flutter](https://mp.weixin.qq.com/s/OGbH3G3wHVTUt-0EJit8RA)  
 [Flutter 即学即用系列博客——04 Flutter UI 初窥](https://mp.weixin.qq.com/s/8s2ye_bvkUDn8yrEEDS1dQ)  
-[Flutter 即学即用系列博客——05 StatelessWidget vs StatefulWidget](https://mp.weixin.qq.com/s/TiJgFsZkHaNWSnvGfUraTQ)
+[Flutter 即学即用系列博客——05 StatelessWidget vs StatefulWidget](https://mp.weixin.qq.com/s/TiJgFsZkHaNWSnvGfUraTQ)  
+[Flutter 即学即用系列博客——06 超实用 Widget 集锦](https://mp.weixin.qq.com/s/bWAefJgqFQu5xRWvsCXLBQ)  
+[Flutter 即学即用系列博客——07 RenderFlex overflowed 引发的思考](https://mp.weixin.qq.com/s/CfXR3nshGD8LwG0FgaemVw)  
 
 ## dart
 
