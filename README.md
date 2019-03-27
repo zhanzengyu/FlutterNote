@@ -46,4 +46,5 @@
 ## DateTime
 
 [DateTime-class](https://docs.flutter.io/flutter/dart-core/DateTime-class.html)  
-Format:[intl](https://pub.dartlang.org/packages/intl)
+Format:[intl](https://pub.dartlang.org/packages/intl)  
+[DateFormat](https://docs.flutter.io/flutter/intl/DateFormat-class.html)
