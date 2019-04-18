@@ -35,6 +35,10 @@
 
 ## 一些不错的博客
 
+[Flutter For Android Developers : How to design an Activity UI in Flutter](https://blog.usejournal.com/flutter-for-android-developers-how-to-design-activity-ui-in-flutter-4bf7b0de1e48)  
+推荐理由：官方推荐
+
+
 [Flutter : ListView, GridView inside ScrollView](https://medium.com/flutterpub/flutter-listview-gridview-inside-scrollview-68b722ae89d4)  
 
 ![](https://github.com/nesger/FlutterNote/blob/master/image/multi_widget.gif)
