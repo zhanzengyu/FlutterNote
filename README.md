@@ -1,4 +1,8 @@
 ## Flutter 即学即用系列博客
+
+>介绍：  
+本人因为亲身经历从小白到 Flutter 功能上线全过程，因此将其写成博客，希望能够帮助广大开发者快速入门 Flutter。
+
 [Flutter 即学即用系列博客——01 环境搭建](https://mp.weixin.qq.com/s/mEwJE5mXwpmuWgVNL9O42g)  
 [Flutter 即学即用系列博客——02 一个纯 Flutter Demo 说明](https://mp.weixin.qq.com/s/LAmQYsjZmn56HZWrSZ59vQ)  
 [Flutter 即学即用系列博客——03 在旧有项目引入 Flutter](https://mp.weixin.qq.com/s/OGbH3G3wHVTUt-0EJit8RA)  
